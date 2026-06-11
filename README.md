@@ -5,7 +5,7 @@ I'm a Computer Science student at VIT Vellore, currently in my 3rd year. I enjoy
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-sharma-a2977b3a2/)
-[![sharmaaditya1009@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sharmaaaditya1009@gmail.com)
+[![sharmaaditya1009@gmail.com]](mailto:sharmaaaditya1009@gmail.com)
 
 ## 🛠️ Tech Stack
 
