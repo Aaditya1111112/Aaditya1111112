@@ -33,8 +33,8 @@ A full-stack job portal built with Java 21, Spring Boot 4, React, and PostgreSQL
 - Role-based access for Seekers and Employers
 - JWT authentication, resume upload, email notifications
 - Filtered job search with pagination
-- [Backend](https://github.com/Aaditya1111112/talentgrid-backend)
-- [Frontend](https://github.com/Aaditya1111112/talentgrid-frontend)
+- [Backend](https://github.com/Aaditya1111112/TalentGrid_JobPortal-Backend-)
+- [Frontend](https://github.com/Aaditya1111112/TalentGrid_JobPortal-Frontend-)
 
 ### [CMGR-Dashboard]
 An integrated college management dashboard built with React and CSS.
