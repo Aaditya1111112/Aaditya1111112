@@ -51,7 +51,7 @@ A desktop utility to merge multiple CSV or Excel files into one, built with Pyth
 - [Repository](https://github.com/Aaditya1111112/SheetMerger)
 
 ## 📊 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1111112&layout=compact&theme=tokyonight&hide_border=true)]
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aaditya1111112&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Aaditya1111112)
 
 ---
 💡 Currently looking for internship opportunities in full-stack or backend development.
