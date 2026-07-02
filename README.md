@@ -49,9 +49,6 @@ A desktop utility to merge multiple CSV or Excel files into one, built with Pyth
 - Sheet picker for multi-sheet Excel files
 - Tracks row origin via a `Source File` column
 - [Repository](https://github.com/Aaditya1111112/SheetMerger)
-
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1111112&langs_count=8&layout=compact&theme=tokyonight)
-
+  
 ---
 💡 Currently looking for internship opportunities in full-stack or backend development.
